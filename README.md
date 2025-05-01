@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 **Hi, I'm 100%**  
+## 👋 **Hi, I'm a senior full-stack engineer.**  
 
 I'm a **Senior Software Engineer** with advanced expertise in:
 
